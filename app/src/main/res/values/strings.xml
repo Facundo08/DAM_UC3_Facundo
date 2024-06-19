@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAM_UC3_FacundoMoreno</string>
+    <string name="Correo_Electrónico">Correo Electrónico</string>
+    <string name="contra">Contraseña</string>
+    <string name="boton_r">Regístrate</string>
+    <string name="text">texto</string>
+
+</resources>
